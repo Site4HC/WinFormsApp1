@@ -132,11 +132,11 @@ namespace WinFormsApp1
 
             return hash;
         }
-        public static string ConStr { get; set; } =string.Empty;
+        public static string ConStr { get; set; } = string.Empty;
         public static string typeUser { get; set; } = string.Empty;
         public static string nameUser { get; set; } = string.Empty;
 
-        public static BindingSource bs1 { get; set; }= new BindingSource();
+        public static BindingSource bs1 { get; set; } = new BindingSource();
         public static DataTable myFunDt(string commandString)
         {
             DataTable dt = new DataTable();

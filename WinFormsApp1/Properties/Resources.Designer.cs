@@ -83,6 +83,16 @@ namespace WinFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Знімок_екрана_2025_05_06_230443 {
+            get {
+                object obj = ResourceManager.GetObject("Знімок екрана 2025-05-06 230443", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap книга {
             get {
                 object obj = ResourceManager.GetObject("книга", resourceCulture);
